@@ -4,10 +4,10 @@ export const siteConfig = {
   description: "Portfolio website of Sagar Bhojane",
   accentColor: "#1d4ed8",
   social: {
-    email: "sagar.bhojane001@gmail.com",
+    email: "sagarbhojane4567@gmail.com",
     linkedin: "https://www.linkedin.com/in/sagarbhojane/",
     twitter: "",
-    github: "hhttps://github.com/sbhojane001",
+    github: "https://github.com/sbhojane001",
   },
   aboutMe:
     "Data whisperer turning retail, e-commerce, and supply chain chaos into crystal-clear insights. I build predictive models that don’t just forecast the future — they help save millions while sipping on cloud tech (AWS & Azure). Whether it’s taming time series, fine-tuning marketing spend, or decoding customer behavior, I thrive on translating messy data into business wins. Basically, if it involves data and impact, I’m your go-to plot twist.",
