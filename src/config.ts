@@ -16,9 +16,9 @@ export const siteConfig = {
   
   certifications: [
     {
-      name: "Microsoft Certified: Fabrics Analytics Engineer Associate",
-      issuingAuthority: "Microsoft",
-      credentialId: "B72C0B3B3BA06905"
+      name: "AWS Certified Machine Learning - Specialty",
+      issuingAuthority: "AWS",
+      credentialId: "92513c3078ca45878220dae760172ac6"
     },
     {
       name: "AWS Certified Cloud Practitioner",
@@ -26,10 +26,16 @@ export const siteConfig = {
       credentialId: "eea814884bf34000b8604c147ffd80df"
     },
     {
+      name: "Microsoft Certified: Fabrics Analytics Engineer Associate",
+      issuingAuthority: "Microsoft",
+      credentialId: "B72C0B3B3BA06905"
+    },
+    {
       name: "Microsoft Certified: Azure AI Engineer Associate",
       issuingAuthority: "Microsoft",
       credentialId: "2B9F76404AADC41E"
     },
+    
   ],
   // projects: [
   //   {
